@@ -1,4 +1,4 @@
-Project Title
+**Project Title**
 
 Financial Data Analysis and Interactive Dashboard Using Power BI
 
@@ -14,7 +14,7 @@ To support data-driven decision-making using interactive dashboards in Power BI.
 
 **##dataset-used**
 
--< href="https://github.com/swethagm2004-max/Data-Analysis-Dashboard/blob/main/Excel%20PowerBi%20Excel%20Mini%20Project.xlsx">dataset</a>
+<a href="https://github.com/swethagm2004-max/Data-Analysis-Dashboard/blob/main/Excel%20PowerBi%20Excel%20Mini%20Project.xlsx"> dataset</a>
 
 **Process**
 
