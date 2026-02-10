@@ -1,6 +1,6 @@
 **Project Title**
 
-Financial Data Analysis and Interactive Dashboard Using Power BI
+Financial Data Analysis and Interactive Dashboard Using Ms Excel
 
 **Project Objectives**
 
